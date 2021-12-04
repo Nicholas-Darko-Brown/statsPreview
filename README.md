@@ -14,7 +14,6 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
@@ -32,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Nicholas-Darko-Brown/statsPreview.git)
-- Live Site URL: [Add live site URL here](https://nervous-hawking-e1cba3.netlify.app/)
+- Solution URL: [https://github.com/Nicholas-Darko-Brown/statsPreview.git]
+- Live Site URL: [https://nervous-hawking-e1cba3.netlify.app/]
 
 ### Built with
 
@@ -52,8 +51,8 @@ Users should be able to:
 
 ## Author
 
-- Website - [Nicholas Darko Brown](https://github.com/Nicholas-Darko-Brown)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/Nicholas-Darko-Brown)
+- Website - [https://github.com/Nicholas-Darko-Brown]
+- Frontend Mentor - [https://www.frontendmentor.io/profile/Nicholas-Darko-Brown || @Nicholas-Darko-Brown]
 
 ### Acknowledgments
 
